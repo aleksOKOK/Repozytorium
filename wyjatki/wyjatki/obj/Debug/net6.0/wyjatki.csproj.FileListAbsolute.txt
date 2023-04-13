@@ -1,0 +1,15 @@
+S:\programier\wyjatki\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.exe
+S:\programier\wyjatki\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.deps.json
+S:\programier\wyjatki\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.runtimeconfig.json
+S:\programier\wyjatki\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.dll
+S:\programier\wyjatki\wyjatki\wyjatki\bin\Debug\net6.0\wyjatki.pdb
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.csproj.AssemblyReference.cache
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.AssemblyInfoInputs.cache
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.AssemblyInfo.cs
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.csproj.CoreCompileInputs.cache
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.dll
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\refint\wyjatki.dll
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.pdb
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\wyjatki.genruntimeconfig.cache
+S:\programier\wyjatki\wyjatki\wyjatki\obj\Debug\net6.0\ref\wyjatki.dll
